@@ -6,7 +6,7 @@
 
 
 
-[Live Demo](https://praveenoruganti-piano-app.firebaseapp.com/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-piano-reactjs/)
 
 
 
