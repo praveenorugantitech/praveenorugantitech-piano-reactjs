@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-piano-reactjs/static/css/main.72b0e9fc.chunk.css",
+    "main.js": "/praveenorugantitech-piano-reactjs/static/js/main.8c9a6c00.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-piano-reactjs/static/js/runtime-main.e7a45882.js",
+    "static/js/2.90c688a2.chunk.js": "/praveenorugantitech-piano-reactjs/static/js/2.90c688a2.chunk.js",
+    "index.html": "/praveenorugantitech-piano-reactjs/index.html",
+    "precache-manifest.a20b09be313d9503e6a0bf005cba032c.js": "/praveenorugantitech-piano-reactjs/precache-manifest.a20b09be313d9503e6a0bf005cba032c.js",
+    "service-worker.js": "/praveenorugantitech-piano-reactjs/service-worker.js",
+    "static/js/2.90c688a2.chunk.js.LICENSE.txt": "/praveenorugantitech-piano-reactjs/static/js/2.90c688a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7a45882.js",
+    "static/js/2.90c688a2.chunk.js",
+    "static/css/main.72b0e9fc.chunk.css",
+    "static/js/main.8c9a6c00.chunk.js"
+  ]
+}
