@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/praveenorugantitech-piano-reactjs/precache-manifest.a20b09be313d9503e6a0bf005cba032c.js"
+  "/praveenorugantitech-piano-reactjs/precache-manifest.72afd1f669586a4b8840a19225435614.js"
 );
 
 self.addEventListener('message', (event) => {
